@@ -201,3 +201,11 @@ body {
 .cta-button:hover {
     background-color: #2563eb; /* Darker blue on hover */
 }
+.footer {
+    background-color: #1f2937; /* Same as header/navy */
+    color: #d1d5db; /* Soft gray text */
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 17px;
+    font-weight: 400;
+}
